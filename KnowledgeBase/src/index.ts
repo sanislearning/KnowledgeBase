@@ -11,7 +11,7 @@ app.post('/api/v1/user/signup', (c) => {
 })
 
 app.post('/api/v1/user/signin',(c)=>{
- return c.text("Hello Hono")
+ return c.text("Hello gay")
 })
 
 app.post('/api/v1/blog',(c)=>{
